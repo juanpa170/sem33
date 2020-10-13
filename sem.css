@@ -1,0 +1,15 @@
+.x{
+	position: absolute;
+	font-family: DJB Letter Game Tiles;
+	font-size: 43px;
+	left: 43%;
+	background: cyan;
+}
+.v{
+	position: absolute;
+	background: black;
+	top: 35%;
+	left: 20%;
+	width: 850px;
+	height: 360px;
+}
